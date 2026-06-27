@@ -1,38 +1,76 @@
-# Hungry Hub - UI/UX Design
+# 🍔 Hungry Hub - Food Delivery App UI/UX Design
 
-A modern food delivery mobile application designed using Figma.
+<p align="center">
 
-## Features
-- User Login
-- User Registration
-- Success Screen
-- Welcome Screen
-- Home Screen
-- Food Details Screen
+![Figma](https://img.shields.io/badge/Designed%20with-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-## Tools Used
-- Figma
+</p>
 
-## Project Screens
+<h1 align="center">🍽️ Hungry Hub</h1>
 
-### Sign Up
-![Sign Up](Screenshots/signup.png)
+<p align="center">
+A modern and elegant Food Delivery Mobile App UI/UX Design created using <b>Figma</b>.
+</p>
 
-### Login
-![Login](Screenshots/login.png)
+---
 
-### Success
-![Success](Screenshots/success.png)
+## 📖 About the Project
 
-### Welcome
-![Welcome](Screenshots/welcome.png)
+Hungry Hub is a mobile food delivery application designed with a clean, modern, and user-friendly interface. The design focuses on delivering a seamless ordering experience through intuitive navigation, visually appealing layouts, and consistent branding.
 
-### Home
-![Home](Screenshots/home.png)
+---
 
-### Details
-![Details](Screenshots/details.png)
+## ✨ Features
 
-## Figma Prototype
+* 🔐 User Authentication (Sign Up & Login)
+* ✅ Success Confirmation Screen
+* 👋 Welcome Screen
+* 🍽️ Home Dashboard
+* 🔍 Food Search
+* 🍕 Food Details Page
+* 🛒 Order Now Interface
+* 🎨 Modern & Minimal UI
 
-(Add your Figma link here)
+---
+
+## 🛠️ Tools Used
+
+* 🎨 Figma
+* 📱 Mobile UI Design
+* 🧩 UX Prototyping
+
+---
+
+## 🎨 Design Style
+
+* **Primary Color:** Orange (`#F68B1E`)
+* **Background:** Soft Cream (`#FFF8F2`)
+* **Typography:** Clean, Bold & Readable
+* **Theme:** Modern, Minimal, Premium
+
+---
+
+
+## 💡 Future Improvements
+
+* 💳 Payment Screen
+* 🛒 Cart Page
+* 📍 Live Order Tracking
+* ❤️ Favorites
+* 🔔 Notifications
+* 👤 User Profile
+
+---
+
+## 👨‍💻 Author
+
+**Thirumurugan G**
+
+---
+
+<p align="center">
+⭐ If you like this project, don't forget to <b>Star</b> this repository!
+</p>
