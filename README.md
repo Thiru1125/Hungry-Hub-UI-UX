@@ -4,8 +4,6 @@
 
 ![Figma](https://img.shields.io/badge/Designed%20with-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </p>
 
